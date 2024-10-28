@@ -1,0 +1,15 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "wheresam-worker"
+compatibility_date = "2024-10-22"
+compatibility_flags = ["nodejs_compat"]
+
+# Workers Logs
+# Docs: https://developers.cloudflare.com/workers/observability/logs/workers-logs/
+# Configuration: https://developers.cloudflare.com/workers/observability/logs/workers-logs/#enable-workers-logs
+[observability]
+enabled = true
+
+[[kv_namespaces]]
+binding = "whereis"
+id = "50da87cfd6264a8cb02ebf39b6d19a38"
+preview_id = "50da87cfd6264a8cb02ebf39b6d19a38"

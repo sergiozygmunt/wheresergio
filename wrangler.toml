@@ -11,6 +11,6 @@ pages_build_output_dir = ".vercel/output/static"
 enabled = true
 
 [[kv_namespaces]]
-binding = "wheresergio-whereis"
+binding = "whereis"
 id = "bac556c13c2742bd9ae0bdb20ef60c22"
 preview_id = "bac556c13c2742bd9ae0bdb20ef60c22"

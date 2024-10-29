@@ -7,8 +7,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Where Sam?",
-  description: "Where's Sam in the world?",
+  title: "Where Sergio?",
+  description: "Where's Sergio in the world?",
 };
 
 const departureMono = localFont({

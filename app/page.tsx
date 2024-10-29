@@ -22,7 +22,7 @@ export default async function Home() {
       <div className="flex flex-col items-center justify-center min-h-screen">
         <div className="relative w-full max-w-2xl px-4 py-8 mx-auto text-center">
           <h1 className="mb-4 text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl">
-            {isSameCOLO ? "Sam is nearby" : `Sam is not nearby ${visitorLocation}`}
+            {isSameCOLO ? "Sergio is nearby" : `Sergio is not nearby ${visitorLocation}`}
           </h1>
         </div>
         <footer className="absolute bottom-4 text-sm">

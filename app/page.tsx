@@ -27,7 +27,7 @@ export default async function Home() {
         </div>
         <footer className="absolute bottom-4 text-sm">
             <a href={'https://quacksire.dev'} target={'_blank'}>
-                Made with ♥️ by 🐱🦆
+                Made with ♥️ by 🦆🐱
             </a>
         </footer>
       </div>

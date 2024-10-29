@@ -1,6 +1,3 @@
-
-
-
 import { getRequestContext } from '@cloudflare/next-on-pages';
 //eslint-disable-next-line @typescript-eslint/ban-ts-comment
 export const runtime = 'edge'
